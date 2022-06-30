@@ -56,13 +56,28 @@ td{
 }
 .intern{
 color: darkslategray;
+margin-left: 5px;
 }
 .edu{
+    margin-left: 5px;
     color: darkslategray;
 }
 .poi{
+    margin-left: 5px;
     color: darkslategray;
 }
 .profe{
+    margin-left: 5px;
     color: darkslategray;
+}
+.tab{
+    margin-left: 150px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.bold li a{
+    text-decoration: none;
+    color: black;
 }
