@@ -1,0 +1,68 @@
+.name{
+    text-align: left;
+    color:wheat;
+}
+.special{
+    text-align: center;
+    color: bisque;
+}
+.intex{
+    display: flex;
+    justify-content:space-evenly;
+}
+.int-sub{
+    display: flex;
+    justify-content: space-around;
+}
+.tab{
+    width: 500px;
+    border: solid 2px black;
+}
+td{
+    border: solid 2px black;
+}
+.resume{
+    margin: 100px;
+    border: solid 1px;   
+}
+.sign{
+    text-align: right;
+    margin: 55px;
+}
+.side-2{
+    border-left:solid 2px;
+    margin: 25px;
+    height: 650px;
+}
+.side-1{
+    margin: 25px;
+    height: 200px ;
+    width: 300px;
+}
+.head-prof{
+    background-color: rgba(3, 62, 122, 0.875);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.sum{
+    color: darkslategrey;
+}
+.key{
+    color: darkslategrey;
+}
+.techci{
+    color: darkslategray;
+}
+.intern{
+color: darkslategray;
+}
+.edu{
+    color: darkslategray;
+}
+.poi{
+    color: darkslategray;
+}
+.profe{
+    color: darkslategray;
+}
